@@ -1,4 +1,4 @@
-#main GPS homework 2 script
+#main gps positioning script, supdog
 
 import random
 import numpy as np
